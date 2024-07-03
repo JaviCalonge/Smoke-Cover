@@ -37,6 +37,9 @@ img {
 }
 
 @media (max-width: 700px) {
+  header {
+    box-sizing: border-box;
+  }
   img {
     margin-left: 80px;
   }
