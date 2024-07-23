@@ -2,6 +2,18 @@
   box-sizing: border-box;
 }
 
+.enlace {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #fff;
+}
+
+.github {
+  margin: 0;
+  mix-blend-mode: normal;
+}
+
 body {
   background-image: url(smoke.gif);
   background-size: cover;
